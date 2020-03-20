@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LpktpLvq4cZ8G952OUWpJqNdw0bk5DDcNNtj+6re+KtBc2MYxlLnD/b+bhKyOYvoNAkA1TLmIOKKIZAiLeHPTg==",
+  "success": true,
+  "projectFilePath": "/mnt/45f1fe4a-2c4d-46f6-a243-bf6170ed9202/programming/CSharp/CoronaKitty/Lib/CoronaKitty/CoronaKitty.csproj",
+  "expectedPackageFiles": [
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

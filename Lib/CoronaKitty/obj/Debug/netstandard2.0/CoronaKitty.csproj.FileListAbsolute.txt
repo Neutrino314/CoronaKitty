@@ -1,0 +1,9 @@
+/mnt/45f1fe4a-2c4d-46f6-a243-bf6170ed9202/programming/CSharp/CoronaKitty/Lib/CoronaKitty/bin/Debug/netstandard2.0/CoronaKitty.deps.json
+/mnt/45f1fe4a-2c4d-46f6-a243-bf6170ed9202/programming/CSharp/CoronaKitty/Lib/CoronaKitty/bin/Debug/netstandard2.0/CoronaKitty.dll
+/mnt/45f1fe4a-2c4d-46f6-a243-bf6170ed9202/programming/CSharp/CoronaKitty/Lib/CoronaKitty/bin/Debug/netstandard2.0/CoronaKitty.pdb
+/mnt/45f1fe4a-2c4d-46f6-a243-bf6170ed9202/programming/CSharp/CoronaKitty/Lib/CoronaKitty/obj/Debug/netstandard2.0/CoronaKitty.csprojAssemblyReference.cache
+/mnt/45f1fe4a-2c4d-46f6-a243-bf6170ed9202/programming/CSharp/CoronaKitty/Lib/CoronaKitty/obj/Debug/netstandard2.0/CoronaKitty.csproj.CoreCompileInputs.cache
+/mnt/45f1fe4a-2c4d-46f6-a243-bf6170ed9202/programming/CSharp/CoronaKitty/Lib/CoronaKitty/obj/Debug/netstandard2.0/CoronaKitty.AssemblyInfoInputs.cache
+/mnt/45f1fe4a-2c4d-46f6-a243-bf6170ed9202/programming/CSharp/CoronaKitty/Lib/CoronaKitty/obj/Debug/netstandard2.0/CoronaKitty.AssemblyInfo.cs
+/mnt/45f1fe4a-2c4d-46f6-a243-bf6170ed9202/programming/CSharp/CoronaKitty/Lib/CoronaKitty/obj/Debug/netstandard2.0/CoronaKitty.dll
+/mnt/45f1fe4a-2c4d-46f6-a243-bf6170ed9202/programming/CSharp/CoronaKitty/Lib/CoronaKitty/obj/Debug/netstandard2.0/CoronaKitty.pdb

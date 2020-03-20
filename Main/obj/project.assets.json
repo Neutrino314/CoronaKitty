@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CoronaKitty/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/CoronaKitty.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CoronaKitty.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CoronaKitty/1.0.0": {
+      "type": "project",
+      "path": "../Lib/CoronaKitty/CoronaKitty.csproj",
+      "msbuildProject": "../Lib/CoronaKitty/CoronaKitty.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "CoronaKitty >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/alex/.nuget/packages/": {},
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/mnt/45f1fe4a-2c4d-46f6-a243-bf6170ed9202/programming/CSharp/CoronaKitty/Main/Main.csproj",
+      "projectName": "Main",
+      "projectPath": "/mnt/45f1fe4a-2c4d-46f6-a243-bf6170ed9202/programming/CSharp/CoronaKitty/Main/Main.csproj",
+      "packagesPath": "/home/alex/.nuget/packages/",
+      "outputPath": "/mnt/45f1fe4a-2c4d-46f6-a243-bf6170ed9202/programming/CSharp/CoronaKitty/Main/obj/",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "/home/alex/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "/mnt/45f1fe4a-2c4d-46f6-a243-bf6170ed9202/programming/CSharp/CoronaKitty/Lib/CoronaKitty/CoronaKitty.csproj": {
+              "projectPath": "/mnt/45f1fe4a-2c4d-46f6-a243-bf6170ed9202/programming/CSharp/CoronaKitty/Lib/CoronaKitty/CoronaKitty.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

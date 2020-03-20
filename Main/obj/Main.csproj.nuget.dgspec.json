@@ -1,0 +1,121 @@
+{
+  "format": 1,
+  "restore": {
+    "/mnt/45f1fe4a-2c4d-46f6-a243-bf6170ed9202/programming/CSharp/CoronaKitty/Main/Main.csproj": {}
+  },
+  "projects": {
+    "/mnt/45f1fe4a-2c4d-46f6-a243-bf6170ed9202/programming/CSharp/CoronaKitty/Lib/CoronaKitty/CoronaKitty.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/mnt/45f1fe4a-2c4d-46f6-a243-bf6170ed9202/programming/CSharp/CoronaKitty/Lib/CoronaKitty/CoronaKitty.csproj",
+        "projectName": "CoronaKitty",
+        "projectPath": "/mnt/45f1fe4a-2c4d-46f6-a243-bf6170ed9202/programming/CSharp/CoronaKitty/Lib/CoronaKitty/CoronaKitty.csproj",
+        "packagesPath": "/home/alex/.nuget/packages/",
+        "outputPath": "/mnt/45f1fe4a-2c4d-46f6-a243-bf6170ed9202/programming/CSharp/CoronaKitty/Lib/CoronaKitty/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/alex/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/mnt/45f1fe4a-2c4d-46f6-a243-bf6170ed9202/programming/CSharp/CoronaKitty/Main/Main.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/mnt/45f1fe4a-2c4d-46f6-a243-bf6170ed9202/programming/CSharp/CoronaKitty/Main/Main.csproj",
+        "projectName": "Main",
+        "projectPath": "/mnt/45f1fe4a-2c4d-46f6-a243-bf6170ed9202/programming/CSharp/CoronaKitty/Main/Main.csproj",
+        "packagesPath": "/home/alex/.nuget/packages/",
+        "outputPath": "/mnt/45f1fe4a-2c4d-46f6-a243-bf6170ed9202/programming/CSharp/CoronaKitty/Main/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/alex/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/mnt/45f1fe4a-2c4d-46f6-a243-bf6170ed9202/programming/CSharp/CoronaKitty/Lib/CoronaKitty/CoronaKitty.csproj": {
+                "projectPath": "/mnt/45f1fe4a-2c4d-46f6-a243-bf6170ed9202/programming/CSharp/CoronaKitty/Lib/CoronaKitty/CoronaKitty.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
