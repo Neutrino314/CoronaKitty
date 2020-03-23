@@ -40,6 +40,16 @@ namespace CoronaKitty.UI
 
         }
 
+        public static void PutInline(string text, ConsoleColor FG, ConsoleColor BG) {
+
+            Console.ForegroundColor = FG;
+            Console.BackgroundColor = BG;
+
+            Console.Write(text);
+            Console.ResetColor();
+
+        }
+
         //prints out a TextData struct
         public static void Put(TextData data) {
 
