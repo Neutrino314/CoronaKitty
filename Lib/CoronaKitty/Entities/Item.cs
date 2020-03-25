@@ -17,11 +17,18 @@ namespace CoronaKitty.Entities
 
         }
 
+        ~Item() {
+
+
+        }
+
         public override void Describe() {
 
             base.Describe();
 
         }
+
+        public override void Update(Application app) {}
 
         public void Use(Entity entity) {
 

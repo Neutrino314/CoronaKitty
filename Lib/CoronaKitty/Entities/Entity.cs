@@ -17,13 +17,18 @@ namespace CoronaKitty.Entities
 
         }
 
+         ~Entity() {
+
+
+        }
+
         public virtual void Describe() {
 
             UI.TextOutput.Put(m_description, entityDescriptionStyle.FG, entityDescriptionStyle.BG);
 
         }
 
-        public virtual void Update() {}
+        public virtual void Update(CoronaKitty.Application app) {}
 
         public static T EntityTo<T>(Entity ent) where T : Entity { //method convertng boxed entity to its original type
 
